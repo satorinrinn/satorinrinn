@@ -47,13 +47,16 @@ async function fetchAllRepos() {
 }
 
 function generateList(repos, limit = 6) {
+  // remove the profile repo (same name as username)
+  const filtered = repos.filter(r => r.name.toLowerCase() !== USER.toLowerCase());
+
   // Sort by recent push date and then by stars
-  repos.sort((a, b) => {
+  filtered.sort((a, b) => {
     const d = new Date(b.pushed_at) - new Date(a.pushed_at);
     if (d !== 0) return d;
     return b.stargazers_count - a.stargazers_count;
   });
-  const pick = repos.slice(0, limit);
+  const pick = filtered.slice(0, limit);
   return pick
     .map(r => {
       const desc = (r.description || '').replace(/\r?\n|\r/g, ' ').trim();
