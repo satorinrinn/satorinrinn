@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**renakome/renakome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://osekai.net/profiles?user=34289421" target="_blank" rel="noopener">
+    <img src="https://osekai.net/profiles/img/banner.svg?id=34289421" alt="Osekai profile banner" width="900"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## About me
+I'm Renako (she/her), a curious developer who enjoys learning and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: personal projects and continuous learning
+- 🌱 Learning new tools and languages, acctually luau i think?
+- 👯 Open to collaborate on front-end, bots, and small apps
+- 💬 Ask me about Kotlin, Python
+- 📫 Contact: [https://github.com/renakome](https://github.com/renakome)
+
+## Technologies & Skills
+- JavaScript · Kotlin · Python · Java
+- React · Next.js · Node.js
+- Git  · GitHub Actions
+
+## Featured Projects
+<!-- START_FEATURED -->
+<!-- END_FEATURED -->
+
+---
+This repository contains a small automation that updates the "Featured Projects" list above automatically (optional). If you want me to commit these files and enable the workflow, tell me and I'll push them.
