@@ -1,5 +1,6 @@
 name: Update README Featured Projects
-
+permissions:
+  contents: write
 on:
   schedule:
     # Runs daily at 06:00 America/Sao_Paulo (BRT, UTC-3) => cron expression must be in UTC: 09:00
