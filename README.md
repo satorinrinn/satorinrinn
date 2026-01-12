@@ -25,4 +25,3 @@ I'm Renako (she/her), a curious developer who enjoys learning and building proje
 <!-- END_FEATURED -->
 
 ---
-This repository contains a small automation that updates the "Featured Projects" list above automatically (optional). If you want me to commit these files and enable the workflow, tell me and I'll push them.
