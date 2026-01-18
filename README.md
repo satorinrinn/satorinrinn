@@ -22,12 +22,12 @@ I'm Renako (she/her), a curious developer who enjoys learning and building proje
 
 ## Featured Projects
 <!-- START_FEATURED -->
+- [libraudio](https://github.com/renakome/libraudio) — A fork of https://github.com/MusilyApp/musily
 - [me](https://github.com/renakome/me) — Portfolio.
 - [osu-zenith-pages](https://github.com/renakome/osu-zenith-pages) — static web github pages for osu zenith server.
 - [osu-web](https://github.com/renakome/osu-web) — the browser-facing portion of osu!
 - [osu-relax](https://github.com/renakome/osu-relax) — rhythm is just a *click* away!
 - [odrx-client](https://github.com/renakome/odrx-client)
-- [osudroid-rx-server](https://github.com/renakome/osudroid-rx-server)
 <!-- END_FEATURED -->
 
 ---
