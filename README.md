@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <a href="https://osekai.net/profiles?user=34289421" target="_blank" rel="noopener">
+  <a href="https://osu.ppy.sh/users/34289421" target="_blank" rel="noopener">
     <img src="https://osekai.net/profiles/img/banner.svg?id=34289421" alt="Osekai profile banner" width="900"/>
   </a>
 </p>
@@ -14,6 +14,13 @@ I'm Renako (she/her), a curious developer who enjoys learning and building proje
 - 👯 Open to collaborate on front-end, bots, and small apps
 - 💬 Ask me about Kotlin, Python
 - 📫 Contact: [https://github.com/renakome](https://github.com/renakome)
+
+## My Wife, Hana 💗
+I am only Hana. She's my favorite and my greatest inspiration. ♡
+
+<p align="center">
+  <img src="https://ik.imagekit.io/fzm2xofxnr/4ed1983c2310cd48db5e0213b1fd8ca0.jpg" alt="Hana" width="400"/>
+</p>
 
 ## Technologies & Skills
 - JavaScript · Kotlin · Python · Java
