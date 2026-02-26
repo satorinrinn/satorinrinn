@@ -13,14 +13,7 @@ I'm Isabella (she/her), a curious developer who enjoys learning and building pro
 - 🌱 Learning new tools and languages, acctually luau i think?
 - 👯 Open to collaborate on front-end, bots, and small apps
 - 💬 Ask me about Kotlin, Python
-- 📫 Contact: [Instagram](https://www.instagram.com/renako.me?igsh=d3IzeDZsdnI5cW0y)
-
-## My Wife, Hana 💗
-I am only Hana. She's my favorite and my greatest inspiration. ♡
-
-<p align="center">
-  <img src="https://ik.imagekit.io/fzm2xofxnr/4ed1983c2310cd48db5e0213b1fd8ca0.jpg" alt="Hana and me" width="400"/>
-</p>
+- 📫 Contact: [Instagram](https://www.instagram.com/satorinrinn?igsh=d3IzeDZsdnI5cW0y)
 
 ## Technologies & Skills
 - JavaScript · Kotlin · Python · Java
