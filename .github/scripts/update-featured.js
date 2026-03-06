@@ -13,7 +13,7 @@ const fs = require('fs');
 const path = require('path');
 
 const TOKEN = process.env.GITHUB_TOKEN;
-const USER = process.env.GH_USERNAME || 'renakome';
+const USER = process.env.GH_USERNAME || 'satorinrinn';
 if (!TOKEN) {
   console.error('GITHUB_TOKEN is required in env');
   process.exit(1);
